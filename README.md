@@ -2,7 +2,7 @@
 
 | Day | Challenge Name               | Link | Status (✅/⏳/❌) | Notes |
 |-----|------------------------------|------|-----------------|-------|
-| 1   |                              |      |                 |       |
+| 1   |    Logical Diagram           | [Link](Day_1/Logical_diagram.md)     |        ✅       |       |
 | 2   |                              |      |                 |       |
 | 3   |                              |      |                 |       |
 | 4   |                              |      |                 |       |
